@@ -1,3 +1,3 @@
 # Blender Portfolio Samples
-<img src="https://merylmathew.repl.co/images/rain.gif"></img>
-<img src="https://merylmathew.repl.co/images/spiral.gif"></img>
+<img src="blender_gifs/rain.gif"></img>
+<img src="blender_gifs/spiral.gif"></img>
