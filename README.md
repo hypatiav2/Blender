@@ -1,3 +1,5 @@
-# Blender
+# Blender Portfolio Samples
 
-Jupyter Notebook for rendering with customizable settings and outputs above (use on Google Colab to outsource GPU), along with scripts used to create parts of my animations (not complete work).
+![Rain](https://merylmathew.repl.co/images/rain.gif)
+
+![Rain](https://merylmathew.repl.co/images/spiral.gif)
